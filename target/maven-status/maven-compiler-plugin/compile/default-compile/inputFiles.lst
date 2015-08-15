@@ -1,0 +1,9 @@
+/Users/dongbo/Documents/workspace/aceweixin/src/main/java/com/ferrlo/weixin/mvc/WeixinController.java
+/Users/dongbo/Documents/workspace/aceweixin/src/main/java/com/ferrlo/weixin/domain/Message.java
+/Users/dongbo/Documents/workspace/aceweixin/src/main/java/com/ferrlo/weixin/service/MessageServiceImpl.java
+/Users/dongbo/Documents/workspace/aceweixin/src/main/java/com/ferrlo/weixin/util/WeixinUtil.java
+/Users/dongbo/Documents/workspace/aceweixin/src/main/java/com/ferrlo/weixin/dao/MessageDaoHibernate.java
+/Users/dongbo/Documents/workspace/aceweixin/src/main/java/com/ferrlo/weixin/domain/Reply.java
+/Users/dongbo/Documents/workspace/aceweixin/src/main/java/com/ferrlo/weixin/service/MessageService.java
+/Users/dongbo/Documents/workspace/aceweixin/src/main/java/com/ferrlo/weixin/dao/MessageDao.java
+/Users/dongbo/Documents/workspace/aceweixin/src/main/java/com/ferrlo/weixin/domain/Article.java

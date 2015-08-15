@@ -1,0 +1,4 @@
+com/ferrlo/test/FerrloTest.class
+com/ferrlo/weixin/dao/MessageDaoTest.class
+com/ferrlo/weixin/service/MessageServiceTest.class
+com/ferrlo/weixin/mvc/WeixinControllerTest.class

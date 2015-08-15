@@ -1,0 +1,11 @@
+com/ferrlo/weixin/util/WeixinUtil$1$1.class
+com/ferrlo/weixin/domain/Message.class
+com/ferrlo/weixin/domain/Article.class
+com/ferrlo/weixin/util/WeixinUtil.class
+com/ferrlo/weixin/mvc/WeixinController.class
+com/ferrlo/weixin/service/MessageServiceImpl.class
+com/ferrlo/weixin/dao/MessageDaoHibernate.class
+com/ferrlo/weixin/domain/Reply.class
+com/ferrlo/weixin/util/WeixinUtil$1.class
+com/ferrlo/weixin/dao/MessageDao.class
+com/ferrlo/weixin/service/MessageService.class
